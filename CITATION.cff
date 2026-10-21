@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+
+title: "Fruit value chains assessment in Afghanistan"
+type: software
+version: 1.0.0
+
+authors:
+  - given-names: Atifullah
+    family-names: Shinwari
+  - given-names: Katja
+    family-names: Schiffers
+  - given-names: Cory
+    family-names: Whitney
+  - given-names: Eike
+    family-names: Luedeling
+
+repository-code: "https://github.com/Atifshinwari/Fruit-value-chains-assessment"
