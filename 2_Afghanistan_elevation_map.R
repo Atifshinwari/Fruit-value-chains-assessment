@@ -67,8 +67,8 @@ af_sf2$abbr <- prov_abbr[af_sf2$NAME_1]   # change NAME_1 if needed
 af_labels <- st_point_on_surface(af_sf2)
 
 
-# Reading provincial production data to show on plot
-crops_provinces <- read.csv('data/crop_province_share.csv')
+# # Read crop coverage by province
+crops_provinces <- read.csv('crop_province_share.csv')
 
 # i) Prep a “coverage only” crop layer (no production)
 # library(dplyr)
